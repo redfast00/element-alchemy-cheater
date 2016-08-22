@@ -31,7 +31,7 @@ aliased to their first letter.
 
 ## How did you obtain the JSON recipe files?
 
-Read my [blog post]() (TL;DR: I reverse engineered the apps and extracted the recipes from the decompiled sources)
+Read my [blog post](https://redfast00.github.io/08-21-2016/reversing-element-alchemy-games.html) (TL;DR: I reverse engineered the apps and extracted the recipes from the decompiled sources)
 
 ## How are recipe files structured?
 
